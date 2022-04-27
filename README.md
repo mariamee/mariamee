@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I draw,cook and go to the GYM very often.**
 
 -<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-school-achievements-flaticons-flat-flat-icons.png"/> Currently : **IT engineering student at my 4th year at the national school of applied sciences Tetouan,Morocco.**
--<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-enterprise-business-administration-wanicon-lineal-color-wanicon.png"/> Previously : **PHP intern developper at Peach Media**
+-<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/20/000000/external-enterprise-business-administration-wanicon-lineal-color-wanicon.png"/>Previously : **PHP intern developper at Peach Media**
 
 ## 🚀 Languages and Tools:
 
