@@ -11,7 +11,7 @@
 
 - <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/25/000000/external-school-achievements-flaticons-flat-flat-icons.png"/> Currently : **IT engineering student at my 4th year at the national school of applied sciences Tetouan,Morocco.**
 
-- <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/25/000000/external-enterprise-business-administration-wanicon-lineal-color-wanicon.png"/>Previously : **PHP intern developper at Peach Media**
+- <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/25/000000/external-enterprise-business-administration-wanicon-lineal-color-wanicon.png"/> Previously : **PHP intern developper at Peach Media**
 
 ## 🚀 Languages and Tools:
 
@@ -31,7 +31,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
    
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 <br/>
 
 ## Connect with me:
