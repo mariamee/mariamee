@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures,Algorithms,ReactJS ,Node JS .**
+- 🌱 I’m currently learning **Data Structures, Algorithms, ReactJS, Node JS .**
 
 - 📫 Reach me on  **mariameelalaoui@gmail.com**
 
