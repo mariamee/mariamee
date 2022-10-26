@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I draw, cook and go to the GYM very often.**
 
-- <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/25/000000/external-school-achievements-flaticons-flat-flat-icons.png"/> Currently : **IT engineering student at the 4th year at the national school of applied sciences Tetouan, Morocco.**
+- <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/25/000000/external-school-achievements-flaticons-flat-flat-icons.png"/> Currently : **IT engineering student at the 5th year at the national school of applied sciences Tetouan, Morocco.**
 
 - <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/25/000000/external-enterprise-business-administration-wanicon-lineal-color-wanicon.png"/> Previously : ** Javascript Engineer at ONDA **
 
