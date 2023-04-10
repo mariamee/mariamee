@@ -3,8 +3,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, ReactJS, Node JS.**
-
 - 📫 Reach me on  **mariameelalaoui@gmail.com**
 
 - ⚡ Fun fact **I draw, cook and go to the GYM very often.**
